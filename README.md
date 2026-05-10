@@ -1,4 +1,4 @@
-# E-commerce Power BI Dashboard
+## E-commerce Power BI Dashboard
 
 ## Project Overview
 This project focuses on analyzing e-commerce sales and customer behavior using Power BI.
